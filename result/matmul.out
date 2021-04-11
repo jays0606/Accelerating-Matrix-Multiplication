@@ -1,0 +1,15 @@
+=====================================
+         Matrix Multiplication       
+=====================================
+The size of Matrix: 4096
+Sanity Check(0: false, 1: true): 0
+=====================================
+
+Read input file(input_4096.txt)...
+Read output file(output_4096.txt)...
+
+Run your solution...
+
+matmul_optimal took 0.595738 sec
+Correct
+
