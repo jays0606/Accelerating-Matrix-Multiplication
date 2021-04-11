@@ -4,11 +4,11 @@ In this project, I implement a multi-threaded matrix multiplication program in a
 
 ## How to run code
 1. Generating matrix data 
-make generate 
-./generate 1024 data/input_1024.txt data/output_1024.txt (choose any integer n)
+<br /> make generate 
+<br /> ./generate 1024 data/input_1024.txt data/output_1024.txt (choose any integer n)
 2. Running matmul code
-make 
-./matmul data/input_1024.txt data/output_1024.txt
+<br /> make 
+<br /> ./matmul data/input_1024.txt data/output_1024.txt
 
 
 ## Techniques implemented
